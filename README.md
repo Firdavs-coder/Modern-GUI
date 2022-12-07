@@ -3,6 +3,7 @@
 ```
 pip install PySide2
 ```
-```python
+### Run
+```
 python main.py
 ```
